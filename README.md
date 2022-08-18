@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![kongkip's github stats](https://github-readme-stats.vercel.app/api?username=kongkip&theme=merko)](https://github-readme-stats.vercel.app/api?username=kongkip&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongkip&hide=jupyter%20notebook&theme=merko&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kongkip&hide=jupyter%20notebook&theme=merko&langs_count=10&layout=compact)
