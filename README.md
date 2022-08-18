@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-
-### Hi there 👋, I am @kongkip
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi there 👋, I am @kongkip, AI Engineer" src="./assets/gh-readme-header.png" /></a></p>
 
 - 🔭 I’m currently working on AI computer vision projects for medical imaging.
 - 🌱 I’m currently learning AI project management, MLOPs, Mobile Machine Learning, Kotlin
