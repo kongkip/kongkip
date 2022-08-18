@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-<p align="center"><img width="80%" alt="Hi there 👋, I am @kongkip, AI Engineer"</p>
+<p align="center">Hi there 👋, I am @kongkip, AI Engineer</p>
 
 - 🔭 I’m currently working on AI computer vision projects for medical imaging.
 - 🌱 I’m currently learning AI project management, MLOPs, Mobile Machine Learning, Kotlin
