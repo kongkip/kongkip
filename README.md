@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The sun weighs 2,000 million million million million tons, 🤣🤣🤣, how did they even measure it?
 
 
-[[![kongkip's github stats](https://github-readme-stats.vercel.app/api?username=kongkip&theme=merko)](https://github-readme-stats.vercel.app/api?username=kongkip&theme=merko)
+
+[![kongkip's github stats](https://github-readme-stats.vercel.app/api?username=kongkip&theme=merko)](https://github-readme-stats.vercel.app/api?username=kongkip&theme=merko)
