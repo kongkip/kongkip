@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about TensorFlow, Computer Vision, Data Science and all the Data staff.
 - 📫 How to reach me: drop an email to evanskiplagat3@gmail.com
 - ⚡ Fun fact: The sun weighs 2,000 million million million million tons, 🤣🤣🤣, how did they even measure it?
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongkip)](https://github.com/anuraghazra/github-readme-stats)
